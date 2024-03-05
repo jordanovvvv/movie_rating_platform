@@ -1,1 +1,1 @@
-This repository contains the code for Movie Rating/Review Platform project, a web application with a backend implemented in [Spring Boot](aucta_backend) and a frontend implemented in [React](react_frontend).
+This repository contains the code for Movie Rating/Review Platform project, a web application with a backend implemented in [Spring Boot](aucta_backend), a frontend implemented in [React](react_frontend) and using MySql as a local database.
